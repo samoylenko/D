@@ -3,4 +3,4 @@ Written overnight, with a good friend and too much beer
 (censored before published)
 
 Screenshot:
-!(Screenshot)[/_screenshots/1.png]
+![Screenshot](/_screenshots/1.png)
