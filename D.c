@@ -62,7 +62,7 @@ char greetz[] =
 
 char maintext[] =
 {
-  "ESC - ВЫХОД,Б**!" \
+  "ESC - ВЫХОД,***!" \
   "                " \
   "                " \
   "                " \
